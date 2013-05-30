@@ -5,7 +5,6 @@ import json
 import urllib
 import urllib2
 import hashlib
-import logging
 import argparse
 
 VIRUSTOTAL_FILE_URL = 'https://www.virustotal.com/vtapi/v2/file/report'
